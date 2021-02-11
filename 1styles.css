@@ -1,0 +1,31 @@
+body {
+	background-color:black;
+	color:white;	
+	font-size:32px;
+	font-family: 'Rokkitt', serif;
+	margin-left:10%;
+}
+
+#one {
+	color: rgb(255, 255, 255);
+}
+
+#two {
+	color: rgb(205,205, 205);
+}
+
+#three {
+	color: rgb(175, 175, 175);
+}
+
+#four {
+	color: rgb(100,100,100)
+}
+
+#five {
+	color: rgb(60,60,60);
+}
+
+#six {
+	color: rgb(20,20,20);
+}
